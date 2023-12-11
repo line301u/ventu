@@ -1,0 +1,11 @@
+:root {
+    --primary-color: rgb(205, 48, 137);
+    --main-bg-color: #f9f9f9;
+    --white-bg-color: white;
+    --container-border-color: rgb(243, 243, 243);
+    --input-border-color: rgb(217, 217, 217);
+    --hover-color-light: rgb(247, 247, 247);
+    --font-color-dark: black;
+    --font-color-light: white;
+    --font-color-error: #ce5151;
+}
