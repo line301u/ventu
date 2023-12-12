@@ -46,12 +46,16 @@ form {
 input[type="submit"] {
 	padding: 0.8rem 1rem;
 	background: var(--primary-color);
+	font-size: 14px;
 	border-radius: 2px;
 	border: none;
 	color: var(--white-bg-color);
 	align-self: flex-end;
 	margin-top: 1rem;
 	cursor: pointer;
+}
+input::placeholder {
+	font-size: 14px;
 }
 
 legend {
